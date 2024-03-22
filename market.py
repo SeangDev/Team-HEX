@@ -13,7 +13,7 @@ while True:
     print("3. Outgoing stock")
     print("4. Quit")
 
-    # issue2 : Input choice (commit 1 times)
+    user_input = input("Enter your choice (1-4): ")
     # Seiha
     
 
