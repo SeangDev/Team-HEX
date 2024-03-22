@@ -2,7 +2,7 @@
 # issue 5 release + bugfix (add item) (dy)
 # issue 6 : hotfix (narak : add 1 item to menu)
 
-item_dic = {"Coffee" : 7, "Pen" : 3, "Paper cup": 2, "Milk" : 1, "Coke" : 4, "Book" : 5}
+item_dic = {"Coffee" : 7, "Pen" : 3, "Paper cup": 2, "Milk" : 1, "Coke" : 4, "Book" : 5, "Beer": 10}
 
 while True:
     # Issue1 :a add print menu    print("\nMenu:") (commit 2 times)
